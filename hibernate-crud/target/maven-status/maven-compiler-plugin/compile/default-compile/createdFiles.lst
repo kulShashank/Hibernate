@@ -1,0 +1,7 @@
+com\shanks\dao\impl\EmployeeDaoImpl.class
+com\shanks\entities\Employee.class
+com\shanks\util\HibernateUtil.class
+com\shanks\dao\EmployeeDao.class
+com\shanks\service\EmployeeService.class
+com\shanks\client\ClientTest.class
+com\shanks\service\impl\EmployeeServiceImpl.class
